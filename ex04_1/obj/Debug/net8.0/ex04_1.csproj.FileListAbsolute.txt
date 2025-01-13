@@ -1,0 +1,14 @@
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\bin\Debug\net8.0\ex04_1.exe
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\bin\Debug\net8.0\ex04_1.deps.json
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\bin\Debug\net8.0\ex04_1.runtimeconfig.json
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\bin\Debug\net8.0\ex04_1.dll
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\bin\Debug\net8.0\ex04_1.pdb
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\obj\Debug\net8.0\ex04_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\obj\Debug\net8.0\ex04_1.AssemblyInfoInputs.cache
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\obj\Debug\net8.0\ex04_1.AssemblyInfo.cs
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\obj\Debug\net8.0\ex04_1.csproj.CoreCompileInputs.cache
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\obj\Debug\net8.0\ex04_1.dll
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\obj\Debug\net8.0\refint\ex04_1.dll
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\obj\Debug\net8.0\ex04_1.pdb
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\obj\Debug\net8.0\ex04_1.genruntimeconfig.cache
+C:\Users\henrique.llopes1\source\repos\logica_programacao\ex04_1\obj\Debug\net8.0\ref\ex04_1.dll
